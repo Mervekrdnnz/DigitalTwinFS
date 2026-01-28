@@ -1,0 +1,66 @@
+{
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\anomali_testi.txt": {
+    "Name": "anomali_testi.txt",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\anomali_testi.txt",
+    "Size": 15728640,
+    "LastModified": "2026-01-28T21:50:32.8988762+03:00",
+    "IsDeleted": false,
+    "Category": "Dok\u00FCman"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\newfile.tmp": {
+    "Name": "newfile.tmp",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\newfile.tmp",
+    "Size": 18874368,
+    "LastModified": "2026-01-28T21:52:14.3612061+03:00",
+    "IsDeleted": false,
+    "Category": "Genel"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\windows_cache_sim.log": {
+    "Name": "windows_cache_sim.log",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\windows_cache_sim.log",
+    "Size": 13631488,
+    "LastModified": "2026-01-28T21:52:32.7212073+03:00",
+    "IsDeleted": false,
+    "Category": "Genel"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\simulation_run_03.tmp": {
+    "Name": "simulation_run_03.tmp",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\simulation_run_03.tmp",
+    "Size": 15728640,
+    "LastModified": "2026-01-28T21:52:45.144451+03:00",
+    "IsDeleted": false,
+    "Category": "Genel"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\fswatch_event.log": {
+    "Name": "fswatch_event.log",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\fswatch_event.log",
+    "Size": 36700160,
+    "LastModified": "2026-01-28T21:53:23.1214437+03:00",
+    "IsDeleted": false,
+    "Category": "Genel"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\!!!weird_name###.dat": {
+    "Name": "!!!weird_name###.dat",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\!!!weird_name###.dat",
+    "Size": 18874368,
+    "LastModified": "2026-01-28T21:55:47.8114936+03:00",
+    "IsDeleted": false,
+    "Category": "Genel"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\tehlikeli_dosya.exe": {
+    "Name": "tehlikeli_dosya.exe",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\tehlikeli_dosya.exe",
+    "Size": 0,
+    "LastModified": "2026-01-28T21:58:12.7685108+03:00",
+    "IsDeleted": false,
+    "Category": "Di\u011Fer"
+  },
+  "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\buyuk_veri.txt": {
+    "Name": "buyuk_veri.txt",
+    "FullPath": "C:\\Users\\Ahmet\\DigitalTwinFS\\bin\\Debug\\net10.0\\ModelData\\buyuk_veri.txt",
+    "Size": 15728640,
+    "LastModified": "2026-01-28T21:58:28.6275158+03:00",
+    "IsDeleted": false,
+    "Category": "D\u00F6k\u00FCman"
+  }
+}

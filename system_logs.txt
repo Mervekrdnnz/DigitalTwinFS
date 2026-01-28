@@ -1,0 +1,6 @@
+[2026-01-28 21:54:42] SİSTEM: Motor başlatıldı.
+[2026-01-28 21:55:47] STRES TESTİ: !!!weird_name###.dat (18 MB) yaratıldı.
+[2026-01-28 21:55:47] YENİ: !!!weird_name###.dat (Genel)
+[2026-01-28 21:55:47] 🚨 ANOMALİ: !!!weird_name###.dat yüksek boyut (18 MB)
+[2026-01-28 21:55:47] GÜNCELLEME: !!!weird_name###.dat (Genel)
+[2026-01-28 21:55:47] 🚨 ANOMALİ: !!!weird_name###.dat yüksek boyut (18 MB)
